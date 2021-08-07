@@ -13,12 +13,11 @@ input[type=text]
 {
     padding: 8px 10px;
     padding: 10px;
-    border: 3px solid rgb(228, 228, 228);
+    
     font-family: 'Roboto', sans-serif;
     color:rgb(228, 228, 228);
     margin:4px 0;
     border-radius:30px;
-    background-color: #1d1d1d;
 }
 #placeholder
 {

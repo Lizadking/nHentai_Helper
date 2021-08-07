@@ -12,13 +12,12 @@ body
 input[type=text]
 {
     padding: 8px 10px;
-    padding: 10px;
-    border: 3px solid rgb(228, 228, 228);
+    border: 0;
+    
     font-family: 'Roboto', sans-serif;
     color:rgb(228, 228, 228);
     margin:4px 0;
-    border-radius:30px;
-    background-color: #1d1d1d;
+    border-radius:10px;
 }
 #placeholder
 {
@@ -31,14 +30,13 @@ input[type=button],input[type=submit]
 {
     padding: 10px;
     width: 100%;
-    border-radius:30px;
+    border-radius:10px;
     border: 3px solid rgb(228, 228, 228);
     background-color: #1d1d1d;
     font-family: 'Roboto', sans-serif;
     text-align: center;
     font-size: 16px;
-    color:rgb(228, 228, 228);
-
+    
     
 }
 
