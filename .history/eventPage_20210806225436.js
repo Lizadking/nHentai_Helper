@@ -5,6 +5,7 @@ var contextMenuItem =
     "title":"Search with nHentai",
     "contexts":["selection"]
 };
+
 chrome.contextMenus.create(contextMenuItem);
 
 chrome.contextMenus.onClicked.addListener((OnClickData) => {
