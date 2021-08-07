@@ -9,6 +9,6 @@ document.getElementById('submission').addEventListener('click',function()
         let strElm = String(elm.value);
         console.log(strElm);
         let finalUrl = defaultUrl+=strElm+"/";
-        
+        //may change this line below 
         chrome.tabs.create({url:finalUrl});
     });
