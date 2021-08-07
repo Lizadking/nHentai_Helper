@@ -1,0 +1,42 @@
+h2
+{
+    color:#ed2553e8;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+body
+{
+    background-color: #1d1d1d;
+}
+[type=text]
+{
+    padding: 8px 10px;
+    border: 0;
+    background-color:rgb(228, 228, 228);
+    font-family: 'Roboto', sans-serif;
+    color:#535353e8;
+    margin:4px 0;
+    border-radius:10px;
+}
+#placeholder
+{
+    font-family: 'Roboto', sans-serif;
+    color:rgb(228, 228, 228);
+    border-radius:10px;
+
+}
+input[type=button],input[type=submit]
+{
+    padding: 15px 10px;
+    border-radius:15px;
+    border: 0;
+    background-color: rgb(228, 228, 228);
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.submission
+{
+    text-align: center; 
+}

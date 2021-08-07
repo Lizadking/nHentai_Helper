@@ -1,0 +1,30 @@
+
+
+{
+    "manifest_version":3,
+    "name": "nhentai Helper",
+    "version": "0.0.2",
+    "description": "get to nhentai faster",
+    "action": {
+        "default_popup": "Mainpop.html"
+    },
+   
+    "permissions": ["tabs","clipboardRead","activeTab","clipboardWrite","webRequest","contextMenus"],
+
+    "background":
+    {
+        "service_worker":"eventPage.js"
+        
+    },
+    "icons":{
+        "128":"nh128.png",
+        "48":"nh48.png",
+        "16":"nh16.png"
+    }
+  
+    
+
+  
+   
+}
+
