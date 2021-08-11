@@ -10,7 +10,7 @@ nHentai_Helper is a chrome extension made to make getting to nhentai.net quicker
 1. In the chrome address bar navigate to "chrome://extensions"
 2. Check the "Developer mode" checkbox
 ## Installing the extension
-1. Navigate to the releases tab and download the latest release (.7zip)
+1. Navigate to the releases tab and download the latest release (.7zip or .zip your preference)
 2. Unzip file in the location of your choosing 
 3. In the chrome address bar navigate to "chrome://extensions"
 4. In the extension page click "load Unpacked"
