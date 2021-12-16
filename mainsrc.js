@@ -1,6 +1,6 @@
 
 
-
+//Event for the search button
 document.getElementById('submission').addEventListener('click',function()
     {
         let defaultUrl= "https://nhentai.net/g/"
