@@ -18,18 +18,11 @@
         "service_worker": "eventPage.js"
       },
 
-    
-
-    
     "icons":{
         "128":"nh128.png",
         "48":"nh48.png",
         "16":"nh16.png"
     }
   
-    
-
-  
-   
 }
 

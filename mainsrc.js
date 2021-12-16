@@ -8,7 +8,6 @@ document.getElementById('submission').addEventListener('click',function()
         let elm = from.elements.ntag;
         let strElm = String(elm.value);
         console.log(strElm);
-        let finalUrl = defaultUrl+=strElm+"/";
-        
+        let finalUrl = defaultUrl+=strElm+"/"; 
         chrome.tabs.create({url:finalUrl});
     });

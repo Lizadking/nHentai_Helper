@@ -1,4 +1,4 @@
-
+//Context menu
 var contextMenuItem = 
 {
     "id": "searchnHentai",
@@ -6,7 +6,7 @@ var contextMenuItem =
     "contexts":["selection"]
 };
 chrome.contextMenus.create(contextMenuItem);
-
+//event for the context menu
 chrome.contextMenus.onClicked.addListener((OnClickData) => {
     let selection = OnClickData.selectionText
     console.log(selection)
