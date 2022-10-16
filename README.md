@@ -12,7 +12,7 @@ work is being done to get it back on the store along side new additions. Please 
 In the meantime the extension can still be installed via the manual method as described below.
 ~~Google Chrome store install~~
 
-Download and install the extension [here](https://chrome.google.com/webstore/detail/nhentai-helper/haccmpfglofgoiohichfhhfgoepnkdjm?hl=en)!
+~~Download and install the extension [here](https://chrome.google.com/webstore/detail/nhentai-helper/haccmpfglofgoiohichfhhfgoepnkdjm?hl=en)!~~
 ## Manual Install
 **In order to install dev mode must be enabled**
 1. In the chrome address bar navigate to "chrome://extensions"
