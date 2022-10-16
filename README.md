@@ -5,7 +5,12 @@ nHentai_Helper is a chrome extension made to make getting to nhentai.net quicker
 1. Simply click on the nHentai Helper extension in chrome and enter your desired code in the pop-up box
 2. Highlight any series of digits, right click and select 'Search with nhentai'
 # Installation Instructions
-## Google Chrome store install
+## GOOGLE KILLED NHENTAI HELPER
+Hello users, unfortunate news. Google has decided to remove nHentai Helper from their extension store. nHentai Helper isn't going anywhere as 
+work is being done to get it back on the store along side new additions. Please stay tunned for more information as it becomes avilable.
+
+In the meantime the extension can still be installed via the manual method as described below.
+~~Google Chrome store install~~
 Download and install the extension [here](https://chrome.google.com/webstore/detail/nhentai-helper/haccmpfglofgoiohichfhhfgoepnkdjm?hl=en)!
 ## Manual Install
 **In order to install dev mode must be enabled**
